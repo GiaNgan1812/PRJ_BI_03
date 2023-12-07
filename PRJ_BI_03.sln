@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS", "SSIS\SSIS.dtproj", "{EAE03094-42CB-4E98-B81B-BD77A90DE64C}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS", "SSAS\SSAS.dwproj", "{72499F91-8D50-4793-AE98-11E08E5D3892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE03094-42CB-4E98-B81B-BD77A90DE64C}.Development|Default.ActiveCfg = Development
+		{EAE03094-42CB-4E98-B81B-BD77A90DE64C}.Development|Default.Build.0 = Development
+		{72499F91-8D50-4793-AE98-11E08E5D3892}.Development|Default.ActiveCfg = Development
+		{72499F91-8D50-4793-AE98-11E08E5D3892}.Development|Default.Build.0 = Development
+		{72499F91-8D50-4793-AE98-11E08E5D3892}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB3DDF65-A57E-43E7-B276-9B5507E7E005}
+	EndGlobalSection
+EndGlobal
