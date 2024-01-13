@@ -5,6 +5,8 @@ Thiết kế kho dữ liệu, chuẩn hóa, tổng hợp, nạp dữ liệu các
 
 Khai thác dữ liệu và tạo dashboard, datamining để phân tích dựa trên OLAP, MDX
 
+Báo cáo: https://drive.google.com/file/d/1smQ3LFLXTiRl-g07Fph5nG9lIOSqmCKP/view?usp=sharing 
+
 Demo: 
 
 - ETL: https://youtu.be/dPuhEegnzcA
